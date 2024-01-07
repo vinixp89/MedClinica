@@ -1,5 +1,7 @@
 {
-  "ConnectionStrings": {"Default": "Data Source =MedClinica.db"}
+  "ConnectionStrings": {
+    "Default": "Data Source =MedClinica.db"
+  },
   "Logging": {
     "LogLevel": {
       "Default": "Information",
